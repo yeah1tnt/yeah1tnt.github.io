@@ -12,7 +12,7 @@
   noblank: true            # open link in current tab
 -
   type: youtube
-  icon: 'fas fa-youtube'
+  icon: 'fab fa-youtube'
 -
   type: rss
   icon: 'fas fa-rss'
