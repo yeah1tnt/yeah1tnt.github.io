@@ -1,6 +1,6 @@
 ---
 title: hello world
-date: 2023-03-17 
+date: 2023-03-16 12:00:00 -500 
 ---
 
 # Hello World
