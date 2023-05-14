@@ -33,6 +33,8 @@ There are a few shortcut that I learned while I figuring out what I wanted to do
 </html>
 ```
 
+## Process
+
 To keep all the data collected on the website, we will be using JSON server to save everything we put into the website. To set up json server, the following command was used. 
 
 ```js
@@ -133,5 +135,7 @@ if((error.value !=="" && !checkDuplicate(catErr,error.value)) && (description.va
         document.getElementById("status").innerHTML = "Error and description have to be inputted OR entry is already in the database";
     }
 ```
+
+## Conclusion
 
 Overall this project was pretty fun to make and a good learning experience to apply everything that I had learned throughout the course. Thank you for reading.
